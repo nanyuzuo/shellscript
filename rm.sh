@@ -5,7 +5,7 @@
 #QQ:            115185849
 #Date:          2020-05-05
 #FileName:      rm.sh
-#Description:   replay the "rm" command by mv  
+#Description:   replace the "rm" command by mv  
 #URL:           http://nanyuzuo.xin/hexo
 #Copyright (c):2020 All rights reserved
 #****************************************************
